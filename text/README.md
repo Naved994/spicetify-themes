@@ -82,8 +82,6 @@
 
 ### TokyoNightDay
 
-![TokyoNightDay](screenshots/TokyoNightDay.png)
-
 ### ForestGreen
 
 ![ForestGreen](screenshots/ForestGreen.png)
