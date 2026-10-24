@@ -80,6 +80,10 @@
 
 ![TokyoNightStorm](screenshots/TokyoNightStorm.png)
 
+### TokyoNightDay
+
+![TokyoNightDay](screenshots/TokyoNightDay.png)
+
 ### ForestGreen
 
 ![ForestGreen](screenshots/ForestGreen.png)
