@@ -247,11 +247,12 @@ Here you can find a preview of all the themes. Some of them may have different c
 
 ![Solarized](text/screenshots/Solarized.png)
 
-#### TokyoNight
+### TokyoNight
 
-| ![TokyoNight](text/screenshots/TokyoNight.png) | ![TokyoNightStorm](text/screenshots/TokyoNightStorm.png) |
-| :--------------------------------------------: | :------------------------------------------------------: |
-|                  Tokyo Night                   |                    Tokyo Night Storm                     |
+| ![TokyoNight](text/screenshots/TokyoNight.png) | ![TokyoNightStorm](text/screenshots/TokyoNightStorm.png) | ![TokyoNightDay](text/screenshots/TokyoNightDay.png) |
+| :--------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------: |
+|                  Tokyo Night                   |                    Tokyo Night Storm                     |                    Tokyo Night Day                   |
+
 
 
 ## Turntable
